@@ -1,0 +1,19 @@
+#container{
+    text-align: center;
+    background-color: aqua;
+    /* padding: 10px; */
+    /* margin: 10px; */
+    border: 5px solid black;
+    /* height: 300px;
+    width: 300px; */
+    border-radius: 20px;
+    
+}
+.btn{
+    background-color:rgb(3, 81, 91);
+    border-radius: 10px;
+    /* margin: 5px; */
+    padding: 5px;
+    
+    
+}
